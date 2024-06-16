@@ -1,2 +1,2 @@
 # Software Developer
-# Email: Nicolas_Belinsky@icloud.com
+# E-mail: Nicolas_Belinsky@icloud.com
